@@ -1,0 +1,39 @@
+body {
+    background-image: url(icon.jpg);
+    display: flex;
+}
+
+ 
+
+ #leftImageText {
+     display: flex;
+     height: 15vh;
+     color: white;
+     background-color: black;
+     opacity: 0.5;
+ }
+
+ #formDiv{
+     background-color: white;
+     min-height: 10vh;
+ }
+
+ fieldset {
+     height: 50vh;
+     display: flex;
+     flex-wrap: wrap;
+     text-align: center;
+     justify-content: center;
+ }
+label {
+        width: 35%;
+        margin: 20px;
+}
+
+ input {
+    
+     min-height: 4vh;
+     min-width: 20vw;
+
+ }
+
